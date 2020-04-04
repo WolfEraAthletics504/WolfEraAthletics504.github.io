@@ -5,4 +5,19 @@
  */
 body {
   padding-top: 56px;
+  background-color: black;
+  color: white;
+  font-family: 'Permanent Marker', cursive;
 }
+
+.row{
+  color: black;
+  font-family: 'Roboto', sans-serif
+}
+
+.storeTitle, .card-title{
+  color:#007bff;
+  font-family: 'Permanent Marker', cursive;
+}
+
+
